@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\bin\Debug\net6.0\Exampler002.exe
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\bin\Debug\net6.0\Exampler002.deps.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\bin\Debug\net6.0\Exampler002.runtimeconfig.json
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\bin\Debug\net6.0\Exampler002.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\bin\Debug\net6.0\Exampler002.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.AssemblyInfo.cs
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\refint\Exampler002.dll
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.pdb
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\Exampler002.genruntimeconfig.cache
+C:\Users\Вячеслав\Documents\IT_разработчик\Языки программирования(Семинар)\Lesson 2\Exampler002\obj\Debug\net6.0\ref\Exampler002.dll
